@@ -1,0 +1,2 @@
+tabulate==0.8.6
+tinydb==3.15.2

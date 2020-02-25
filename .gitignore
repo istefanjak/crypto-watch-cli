@@ -1,0 +1,13 @@
+# Python cache
+###############
+**/__pycache__/
+
+# Virtualenv
+###############
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Other
+portfolio.json
+token
